@@ -1,0 +1,47 @@
+{
+  "lancamentos": [
+    {
+      "id": 1,
+      "valor": 13.3,
+      "origem": "Uber",
+      "categoria": 1,
+      "mes_lancamento": 1
+    },
+    {
+      "id": 2,
+      "valor": 130.5,
+      "origem": "PS Store",
+      "categoria": 3,
+      "mes_lancamento": 2
+    },
+    {
+      "id": 3,
+      "valor": 10.9,
+      "origem": "iCloud",
+      "categoria": 2,
+      "mes_lancamento": 2
+    },
+    {
+      "id": 4,
+      "valor": 100.0,
+      "origem": "Xbox store",
+      "categoria": 3,
+      "mes_lancamento": 3
+    }
+  ],
+  "categorias": [
+    {
+       "id": 1,
+       "nome": "Transporte"
+     },
+     {
+       "id": 2,
+       "nome": "Compras Online"
+     },
+     {
+       "id": 3,
+       "nome": "Games"
+     }
+   ]
+   
+}
